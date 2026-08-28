@@ -1,8 +1,8 @@
 # me-svelte
 
-> **OBS:** Detta repo används som referens för ramverksjämförelse (vecka 1) och underhålls inte aktivt.
+> **OBS:** Detta repo används som referens.
 
-Enkel "me-sida" byggd med Svelte 5, svelte-routing och Vite. Hämtar data från ett API och visar den via två vyer med routing.
+Enkel site byggd med Svelte 5, svelte-routing och Vite. Hämtar data från ett API och visar den via två vyer med routing.
 
 ## Kör lokalt
 
